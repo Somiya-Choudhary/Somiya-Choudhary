@@ -1,6 +1,6 @@
 # Hi, I'm Somiya! 👋
 
-Hi, I’m Somiya! 👋 I don’t know what’s impossible—I just git push --force. Gomu Gomu no… Debug! 🐞🛠️
+I don’t know what’s impossible—I just git push --force. Gomu Gomu no… Debug! 🐞🛠️
 
 
 ### 💻 Tech Stack
